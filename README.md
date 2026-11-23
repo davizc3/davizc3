@@ -1,133 +1,105 @@
-# 👋 Hola, soy Darwin
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20,30&height=200&section=header&text=Darwin%20|%20Software%20%26%20Data&fontSize=42&fontAlignY=38&desc=Web%20Developer%20%E2%9E%94%20Data%20Engineering%20%26%20AI%20Specialist&descSize=18&descAlignY=62" width="100%" alt="Header Banner" />
+</p>
 
-💻 **Desarrollador de Aplicaciones Web | Estudiante de Data Engineering & IA**
-
-Soy **graduado en Desarrollo de Aplicaciones Web (DAW)**, donde he adquirido una formación general en desarrollo de software, bases de datos, programación, sistemas y tecnologías cloud.
-
-Actualmente estoy ampliando mi perfil tecnológico cursando el **Máster en Inteligencia Artificial y Data Engineering en Tajamar**, donde estoy profundizando en el mundo de los datos, Big Data, Inteligencia Artificial y Cloud.
-
-Mi objetivo es seguir desarrollándome como profesional tecnológico, combinando mis conocimientos de **desarrollo de software** con el ámbito de los **datos y la Inteligencia Artificial**.
-
----
-
-## 🎓 Formación
-
-### Desarrollo de Aplicaciones Web (DAW)
-
-Durante el grado adquirí conocimientos en diferentes áreas del desarrollo y la informática:
-
-- 🌐 Desarrollo web
-- 🗄️ Bases de datos y SQL
-- ☕ Programación con Java
-- #️⃣ Programación con C#
-- 🐘 PHP
-- 🖥️ Sistemas informáticos
-- ☁️ Cloud Computing y AWS
-- 🔧 Entornos de desarrollo
-- 🌱 Control de versiones con Git y GitHub
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <a href="https://github.com/davizc3">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Desarrollador+Web+(DAW)+%F0%9F%92%BB;Estudiante+de+Data+Engineering+%26+IA+%F0%9F%A4%96;Especializ%C3%A1ndome+en+Big+Data%2C+Pipelines+y+Cloud+%E2%98%81%EF%B8%8F;Construyendo+soluciones+con+datos+e+IA+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-### 📊 Máster en Inteligencia Artificial y Data Engineering — Tajamar
+### 👨‍💻 Sobre mí
 
-**Actualmente cursando · 2026 – 2027**
+Graduado en **Desarrollo de Aplicaciones Web (DAW)** y actualmente especializándome a través del **Máster en Inteligencia Artificial y Data Engineering en Tajamar** (2026 – 2027).
 
-En este máster estoy ampliando mis conocimientos hacia el ámbito de **Data Engineering, Big Data e Inteligencia Artificial**, trabajando tanto con tecnologías de datos como con servicios cloud.
-
-Entre los principales contenidos del programa se encuentran:
-
-**Data Engineering & Big Data**
-- SQL, Python y Scala
-- Bases de datos SQL, NoSQL y vectoriales
-- PySpark
-- Hadoop, MapReduce y Apache Spark
-- Procesos ETL / ELT
-- Procesamiento y limpieza de datos
-- Orquestación y monitorización de pipelines
-- Gobernanza de datos
-- Contenerización y orquestación
-- Cloud
-
-**Data & Business Intelligence**
-- Análisis exploratorio de datos
-- Power BI
-- Visualización y explotación de datos
-
-**Inteligencia Artificial**
-- Fundamentos de Inteligencia Artificial
-- Machine Learning
-- Aprendizaje supervisado y no supervisado
-- Selección de modelos y validación cruzada
-- Matemáticas para IA
-- Azure Machine Learning
-- Procesamiento del Lenguaje Natural
-- Visión por Computadora
-- Inteligencia Artificial Generativa
-- IA Agéntica
-- Copilot Studio
-- Azure AI Foundry
-- Sistemas multiagente
-
-La formación también incluye preparación para certificaciones relacionadas con **Azure, Databricks y MLOps**.
+Mi objetivo es fusionar mi experiencia en desarrollo de software con el ecosistema de **Big Data, arquitectura de datos (ETL/ELT), Cloud e Inteligencia Artificial**, transformando datos brutos en sistemas inteligentes y soluciones eficientes.
 
 ---
 
-## 🛠️ Tecnologías
+### 🎯 Áreas de Enfoque
 
-### Lenguajes
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Desarrollo Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Datos & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-
-### Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>💻 Software & Web</h3>
+      <p>Desarrollo backend y frontend robusto, arquitectura de software, bases de datos y creación de APIs.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>📊 Data Engineering</h3>
+      <p>Diseño y orquestación de pipelines ETL/ELT, procesamiento distribuido con PySpark, Data Lakehouse y Cloud.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🤖 Inteligencia Artificial</h3>
+      <p>Machine Learning, sistemas multiagente, IA Generativa y despliegue de soluciones con Azure AI & Copilot.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Actualmente
+### 🛠️ Tech Stack
 
-Estoy centrando mi aprendizaje en:
+<div align="center">
 
-- 📊 Ingeniería de datos y construcción de pipelines
-- 🐍 Python aplicado a datos e IA
-- ⚡ Big Data y procesamiento distribuido
-- ☁️ Servicios Cloud
-- 🤖 Machine Learning e Inteligencia Artificial
-- 🧠 Inteligencia Artificial Generativa y Agéntica
-- 📈 Análisis y visualización de datos
+#### Lenguajes & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cs,php,js,scala" alt="Lenguajes" />
+</p>
 
-Me interesa especialmente seguir aprendiendo cómo transformar los datos en soluciones útiles para resolver problemas reales.
+#### Data Engineering, Big Data & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws,spark,docker,mysql,postgres" alt="Data & Cloud" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure AI Foundry" />
+  <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="Hadoop" />
+  <img src="https://img.shields.io/badge/Azure_ML-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure ML" />
+</p>
+
+#### Web & Herramientas
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github,vscode" alt="Web & Tools" />
+</p>
+
+</div>
 
 ---
 
-## 📂 Sobre mis proyectos
+### 📈 GitHub Analytics
 
-En este perfil iré publicando proyectos y prácticas relacionados con:
-
-**Desarrollo Web · Java · C# · PHP · Bases de Datos · AWS · Python · Data Engineering · Big Data · Power BI · IA**
-
-La idea es que este repositorio sirva como reflejo de mi evolución, aprendizaje y proyectos realizados durante mi formación.
+<div align="center">
+  <a href="https://github.com/davizc3">
+    <img src="https://github-readme-stats.vercel.app/api?username=davizc3&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&bg_color=0d1117" height="150" alt="GitHub Stats" />
+    <img src="https://streak-stats.demolab.com?user=davizc3&theme=tokyonight&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&background=0d1117" height="150" alt="GitHub Streak" />
+  </a>
+  <br/>
+  <a href="https://github.com/davizc3">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davizc3&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0d1117" height="140" alt="Top Languages" />
+  </a>
+</div>
 
 ---
 
-## 🎯 Objetivo
+### 📬 Conectemos
 
-Seguir creciendo profesionalmente dentro del sector tecnológico y evolucionar desde el **desarrollo de aplicaciones web** hacia un perfil orientado a **Data Engineering e Inteligencia Artificial**, combinando programación, datos y tecnologías cloud.
+<div align="center">
 
-> *Always learning, always building.* 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davizc3)
+
+<br/>
+
+> *“Always learning, always building.”* 🚀
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20,30&height=100&section=footer" width="100%" alt="Footer Banner" />
+
+</div>
