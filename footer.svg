@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 80" width="100%" height="80" fill="none">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0f1d" />
+      <stop offset="100%" stop-color="#050811" />
+    </linearGradient>
+    <linearGradient id="footerWave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.4" />
+      <stop offset="50%" stop-color="#6366f1" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.3" />
+    </linearGradient>
+    <linearGradient id="footerWave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#0284c7" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#4f46e5" stop-opacity="0.8" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#footerBg)" rx="10" />
+  <path d="M0 35 C 180 10, 320 60, 520 30 C 680 15, 760 50, 850 30 L 850 80 L 0 80 Z" fill="url(#footerWave1)" />
+  <path d="M0 50 C 200 25, 350 70, 550 48 C 700 30, 780 60, 850 45 L 850 80 L 0 80 Z" fill="url(#footerWave2)" />
+</svg>

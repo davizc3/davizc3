@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Darwin%20|%20Software%20%26%20Data&fontSize=42&fontAlignY=38&desc=Web%20Developer%20%7C%20Data%20Engineering%20%26%20AI%20Specialist&descSize=18&descAlignY=62" width="100%" alt="Header Banner" />
+  <img src="./banner.svg" width="100%" alt="Darwin Header Banner" />
 </p>
 
 <!-- TYPING ANIMATION -->
@@ -100,6 +100,6 @@ Mi objetivo es fusionar mi experiencia en desarrollo de software con el ecosiste
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" alt="Footer Banner" />
+<img src="./footer.svg" width="100%" alt="Footer Banner" />
 
 </div>
